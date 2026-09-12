@@ -1,0 +1,25 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python environments, caches, and test output
+.venv/
+.venv-bootstrap-temp/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local vector-store data and uploaded documents
+chroma_db/
+data/PDFs/*
+!data/PDFs/.gitkeep
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
