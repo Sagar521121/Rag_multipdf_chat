@@ -2,6 +2,14 @@
 
 A Streamlit retrieval-augmented generation (RAG) app for asking grounded questions across multiple PDF documents. It builds a local, persistent Chroma index and uses Gemini only after relevant evidence has been retrieved.
 
+## Live Demo
+
+[Launch the Multi-PDF Research Assistant](https://ragmultipdfchat-gr2krdsjazsyt7wx2umjaq.streamlit.app/)
+
+## Application Preview
+
+![Multi-PDF Research Assistant screenshot](assets/streamlit-demo.png)
+
 ## Features
 
 - Upload several PDFs and explicitly build the index when ready.
