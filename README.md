@@ -8,7 +8,7 @@ A Streamlit retrieval-augmented generation (RAG) app for asking grounded questio
 
 ## Application Preview
 
-![Multi-PDF Research Assistant screenshot](assets/streamlit-demo.png)
+<img src="assets/streamlit-demo.png" alt="Multi-PDF Research Assistant" width="100%">
 
 ## Features
 
