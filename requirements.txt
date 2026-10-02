@@ -6,4 +6,4 @@ pypdf
 python-dotenv
 sentence-transformers
 streamlit
-unstructured
+unstructured[pdf]
